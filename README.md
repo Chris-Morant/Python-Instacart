@@ -40,10 +40,9 @@ departments
 
 
 ## Tools
-
 Python was used to analyze and work with the data alongside the following libraries:
 
-- Pandas: used for data analysis.
+- Pandas: used for data analysis
 
 - Numpy: used for mathematical operations
 
@@ -52,5 +51,16 @@ Python was used to analyze and work with the data alongside the following librar
 - Matplotlib: used for data visualizations
 
 - SciPy: for mathematical operations
+
+## Folders
+The project folders included in this project are the following:
+
+- Project Management: contains the project brief
+- Data: files not included due to size
+- Scripts: contains code written using Jupyter notebooks
+- Analysis: contains all the visuals created in Python
+- Sent to Client: contains the final project deliverable
+
+  
 
   
