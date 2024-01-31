@@ -1,5 +1,5 @@
 # Project Overview
- Instacart is an online grocery store that operates through its own app and is looking to improve sales using data analysis. The company wants its data analyst team to look through historic data to find sales patterns that can be used to improve their strategy. The data analyst assigned for this task must perform an initial data and exploratory analysis of some of the data to derive insight and make suggest strategies. 
+     Instacart is an online grocery store that operates through its own app and is looking to improve sales using data analysis. The company wants its data analyst team to look through historic data to find sales patterns that can be used to improve their strategy. The data analyst assigned for this task must perform an initial data and exploratory analysis of some of the data to derive insight and make suggest strategies. 
 The use of Python is required to work with the data due to the large size of the dataset provided. 
 
 ## Key Questions and Objectives
